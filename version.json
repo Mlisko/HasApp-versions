@@ -1,6 +1,6 @@
 {
-  "newVersionCode": 2,
-  "newVersionName": "1.0.1",
-  "updateUrl": "https://github.com/Mlisko/HasApp-versions/releases/download/Release/HasApp1_0_1.apk",
-  "releaseNotes": "První testovací verze aplikace HasApp."
+  "newVersionCode": 3,
+  "newVersionName": "1.0.2",
+  "updateUrl": "https://github.com/Mlisko/HasApp-versions/releases/download/1.0.2/HasApp1_0_2.apk",
+  "releaseNotes": "Druhá testovací verze aplikace HasApp."
 }
